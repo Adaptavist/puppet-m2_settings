@@ -1,5 +1,5 @@
 name 'adaptavist-m2_settings'
-version '0.1.4'
+version '0.1.5'
 source 'https://github.com/Adaptavist/puppet-m2_settings.git'
 author 'adaptavist'
 summary 'm2 settings puppet module'
